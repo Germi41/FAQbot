@@ -25,8 +25,8 @@ def main():
 
 def get_payload(url, headers, queries):
     answers = []
-    username = "pilot"
-    password = "P1l0TNotSoVeryLongPassword"
+    username = ""  # deleted
+    password = ""  # deleted
     auth = (username, password)
 
     for query in queries:
