@@ -1,0 +1,53 @@
+# Question not clear
+It's been 24 hours.
+I have question about refunds.
+I have a question about meals.
+Where's my money?
+Baggage
+Refund
+# Booking
+I can't find my booking!
+Can you help me find my booking under kiwicomtest@gmail.com?
+# Legal
+How does it work with claim assignment to airline?
+Do i assign my claim against an airline when making a booking with kiwi.com?
+# About Kiwi.com
+Does kiwi scrape airlines?
+In which country is Kiwi based?
+What Kiwi do?
+Why your name is Kiwi.com?
+# Voluntary cancellation
+How do I cancel my booking?
+Can I cancel if my booking isn't confirmed?
+# Refunds
+When I can expect refund?
+How long does it take to get instant refund in credits?
+Can I get a refund?
+Do you charge a fee for refund?
+# Chekin
+Will you do checkin?
+Will Kiwi check me in?
+Can I travel with my ID card from library?
+I want to check in
+Does Kiwi.com do online check-in?
+# PAX details change
+How much does it cost to change a passenger?
+Can I change the passenger in my fligth?
+How can I change the passenger?
+I need to correct my name
+My birthday is wrong
+# Baggage
+Can I have add baggage?
+How many bags can I take?
+Will the airline automatically transfer my baggage to the next flight?
+# Kiwi.com Credits
+How can I use Kiwi crdeits?
+I can't see option to pay with kiwi credits on the booking page. Where is the issue?
+# Random/pre-booking
+Do you provide insurance?
+Who is a child according to airlines? Is there an age limit?
+Are you selling also tickets for ferries?
+Can we buy train tickets on your website?
+Can we buy tickets on Kiwi web?
+What is the number to customer support?
+

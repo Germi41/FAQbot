@@ -1,0 +1,52 @@
+# Question not clear
+Už je to 24 hodin.
+Mám dotaz ohledně vrácení peněz.
+Mám dotaz ohledně jídel na palubě.
+Kde jsou moje peníze?
+Zavazadla
+Vrácení peněz
+# Booking
+Nemohu najít svou rezervaci!
+Můžete mi pomoci najít moji rezervaci pro účet kiwicomtest@gmail.com?
+# Legal
+Jak to funguje s postoupením pohledávek letecké společnosti?
+Postoupím svůj nárok vůči letecké společnosti při rezervaci přes kiwi.com?
+# About Kiwi.com
+Scrapuje kiwi letecké společnosti?
+Ve které zemi sídlí Kiwi?
+Co dělá Kiwi?
+Proč se jmenujete Kiwi.com?
+# Voluntary cancellation
+Jak zruším svou rezervaci?
+Mohu zrušit reyervaci, pokud ještě není potvrzena?
+# Refunds
+Kdy mohu očekávat vrácení peněz?
+Jak dlouho trvá získat vracení peněz v kreditech?
+Mohu získat refundaci?
+Účtujete si poplatek za vrácení peněz?
+# Chekin
+Uděláte online odbavení?
+Udělá Kiwi checkin?
+Mohu cestovat s průkazem z knihovny?
+Chci se odbavit.
+Provádí Kiwi.com online check-in?
+# PAX details change
+Kolik stojí změna cestujícího?
+Mohu změnit pasažéra v rezervaci?
+Jak mohu změnit cestujícího?
+Potřebuji si opravit chybu ve jméně
+Moje datum narození jsou špatné
+# Baggage
+Mohu přidat zavazadla?
+Kolik kufrů si mohu vzít?
+Přenese letecká společnost automaticky moje zavazadla na další let?
+#Kiwi.com Credits
+Jak mohu použít kiwi kredity?
+Na rezervační stránce nevidím možnost platit kredity kiwi. kde je problém?
+# Random/pre-booking
+Poskytujete pojištění?
+Kdo je podle leteckých společností dítě? Je nějaká věková hranice?
+Prodáváte také lístky na trajekty?
+Můžeme si na vašem webu koupit jízdenky na vlak?
+Můžeme si koupit letenky na webu Kiwi?
+Jaké je číslo na zákaznickou podporu?
