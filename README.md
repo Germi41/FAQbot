@@ -1,7 +1,7 @@
 ## FAQbot skript v.0.1
 Skript for testing FAQbot in Kiwi
 
-### HOW TO RUN:
+### How to run:
 
 Program require one argument `lang` which define which language version you want to test (`cz` or `en`)
 
@@ -16,11 +16,11 @@ python3 faqbot.py <lang>
 ### FAQbot skript v.0.2
 Skript for testing FAQbot in Kiwi
 
-WHAT:
+### What:
 - Get responses from chatbot API to predefined answers or upload your own txt file with inputs
 - Upload responses (and your own inputs) to testing sheet to manually review each input and corresponding reply
 
-### HOW TO RUN:
+### How to run:
 
 1. To run skript only for predefined inputs use following commands:
     ```commandline
