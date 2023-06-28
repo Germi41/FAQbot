@@ -1,23 +1,16 @@
 import requests
 import json
-import sys
 
 
 def main():
-    lang = sys.argv[1]
-    file_name = "queries_en.txt"
-    file_name2 = "queries_cs.txt"
-    url = "https://kiwi.aicheck.tech/"
-    url2 = "https://kiwi2.aicheck.tech/"
+    file_name = "queries.txt"
+    url = "https://ai-faqbot.cs-systems-sandbox.skypicker.com/chat"
     headers = {
+        'accept': 'application/json',
         'Content-Type': 'application/json'
     }
-    if lang == "en":
-        queries = get_queries(file_name)
-        answers = get_payload(url, headers, queries)
-    else:
-        queries = get_queries(file_name2)
-        answers = get_payload(url2, headers, queries)
+    queries = get_queries(file_name)
+    answers = get_payload(url, headers, queries)
     save_to_txt(answers)
     if answers:
         create_csv(queries, answers)
@@ -25,18 +18,19 @@ def main():
 
 def get_payload(url, headers, queries):
     answers = []
-    username = ""  # deleted
-    password = ""  # deleted
-    auth = (username, password)
 
     for query in queries:
         payload = json.dumps({
-            "query": query
+            "query": query,
+            "conversation_id": '8082229f-d0cb-4d42-8fe5-80a66f5fb34d',
+            "display_history_limit": 1,
+            "ai_history_limit": 1
         })
-        response = requests.request("POST", url, headers=headers, data=payload, auth=auth)
+        response = requests.request("POST", url, headers=headers, data=payload)
         if response.status_code == 200:
-            results = json.loads(response.text)
-            answers.append(results["answer"])
+            response_text = response.text
+            results = json.loads(response_text)
+            answers.append(results["answer"].split("\n")[0])
 
     return answers
 

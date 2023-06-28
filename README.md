@@ -17,17 +17,15 @@ python3 faqbot.py <lang>
 Skript for testing FAQbot in Kiwi
 
 ### What:
-- Get responses from chatbot API to predefined answers or upload your own txt file with inputs
+- Get responses from chatbot API to predefined answers
 - Upload responses (and your own inputs) to testing sheet to manually review each input and corresponding reply
 
 ### How to run:
 
 1. To run skript only for predefined inputs use following commands:
     ```commandline
-    python3 faqbot.py
+    python3 cleeviobot.py
     ```
 
-2. To run skript only for your own inputs use following commands:
-    ```commandline
-    python3 faqbot.py <yourfilename.txt>
-    ```
+2. Check results in my_file.csv which was created.
+3. Copy queries or answers to place where you need.
